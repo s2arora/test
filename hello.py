@@ -1,1 +1,3 @@
-print ('hello world')
+#!/usr/bin/python
+
+print ('Hello Bioinformatics')
