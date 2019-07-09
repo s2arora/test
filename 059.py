@@ -1,0 +1,2 @@
+seq = ""
+with open()
